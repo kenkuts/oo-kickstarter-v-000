@@ -13,8 +13,4 @@ class Backer
     project.add_backer(self)
   end
 
-  def backed_projects<<(titles)
-    
-  end
-
 end
